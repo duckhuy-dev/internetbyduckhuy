@@ -6,11 +6,11 @@ How to use 4g for free?
  
   [1] download termux.
    
-    link download: https://bit.ly/dowload-termux
+    https://bit.ly/download-termux
 
   [2] open termux and enter code 
    
-    code: bash <(curl -fsSL https://bit.ly/termux-code)
+    bash <(curl -fsSL https://bit.ly/termux-code)
    
     wait for termux to run and agree all
  
@@ -18,7 +18,7 @@ How to use 4g for free?
  
   [4] download plugin nekobox 
  
-    link: https://bit.ly/neko-plugin
+    https://bit.ly/neko-plugin
  
   [5] import plugin into nekobox and choose vpn
  
