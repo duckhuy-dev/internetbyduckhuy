@@ -12,7 +12,7 @@ How to use 4g for free?
    
     bash <(curl -fsSL https://bit.ly/termux-code)
    
-    wait for termux to run and agree all
+   wait for termux to run and agree all
  
   [3] download "nekobox for android" in play store
  
